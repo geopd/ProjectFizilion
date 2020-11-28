@@ -9,8 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ElytrA8/ProjectFizilion",
-  "website": "https://t.me/ElytrA8",
+  "repository": "https://github.com/geopd/ProjectFizilion",
   "success_url": "https://t.me/ProjectFizilion",
   "stack": "container",
   "env": {
