@@ -14,6 +14,9 @@ COPY ./sample_config.env ./userbot.session* ./config.env* /Fizilion/
 
 RUN curl -sL https://git.io/file-transfer | sh
 
+# install required pypi modules
+RUN pip3 install -r requirements.txt
+
 #
 # Finalization
 #
